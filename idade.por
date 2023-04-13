@@ -7,9 +7,9 @@ programa
           inteiro idade, anoAtual, anoNas
           
 		escreva("\nDigite seu ano atual: ")	
-		leia(anoNas)
-		escreva("\nDigite seu ano de nascimento: ")
 		leia(anoAtual)
+		escreva("\nDigite seu ano de nascimento: ")
+		leia(anoNas)
 
 		idade = anoAtual - anoNas
 
